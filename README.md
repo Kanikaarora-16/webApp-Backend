@@ -7,6 +7,7 @@
 - Maven 3.5.2
 - React JS 
 - YARN / NPM for package Dependencies
+- Junit 4
 - Eclipse IDE
 
 
