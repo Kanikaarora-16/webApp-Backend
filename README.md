@@ -13,7 +13,7 @@
 ## Setup
 # Backend
 - git clone
-- cd webApplication
+- cd webApp-Backend-master
 - mvn spring-boot:run
 - open url http://localhost:8080/convert/number=123&name=abc
 - It will display the name and number in Json format
@@ -21,7 +21,7 @@
 - To import backend code in eclipse, import as an Existing maven project
 
 # Frontend
-- cd akqaJavaTest
+- cd webApp-Frontend-master
 - npm install
 - npm start
 - url http://localhost:3000/ will get opened
